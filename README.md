@@ -1,7 +1,7 @@
-mvp-project_alx
-Warmarth
+# mvp-project_alx
+# Warmarth & Greatyinkus
 
-This project is been done by:
+# This project is been compile by the two contributors below:
 
 # name: Ibeaka Godson
 # Email: godsonibeaka@gmail.com
